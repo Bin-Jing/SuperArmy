@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Ground
+  - Monster
+  - Coin
+  - Bullet
+  - BigGround
+  - DeadMonster
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Platform
+  - Ground
+  - Background
+  - Monster
+  - Coin
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 786285263
+    locked: 0
+  - name: Ground
+    uniqueID: 2202576599
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 1912056073
+    locked: 0
+  - name: Coin
+    uniqueID: 3322223685
+    locked: 0
+  - name: Monster
+    uniqueID: 4164860415
+    locked: 0
+  - name: Bullet
+    uniqueID: 1635260855
+    locked: 0
+  - name: Object
+    uniqueID: 1191077053
+    locked: 0
